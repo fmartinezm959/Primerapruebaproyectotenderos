@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Primera prueba proyecto tenderos</string>
+    <string name="title_activity_main2">Segunda actividad</string>
+    <string name="mapa">Mapa de ubicacion</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+    <string name="log_out">log out</string>
+    <string name="revoke">revoke</string>
+    <string name="not_close_session">No se pudo iniciar sesion</string>
+    <string name="not_revoke">No se pudo revocar acceso</string>
+    <string name="not_firebase_auth">no se pudo autenticar con firebase</string>
+    <string name="facebook_app_id">718825771823231</string>
+    <string name="fb_login_protocol_scheme">fb718825771823231</string>
+    <string name="cancel_login">Se cancelo la operacion</string>
+    <string name="error_login">Ocurrio un error al ingresar</string>
+    <string name="firebase_error_login">Error ingreso a firebase</string>
+    <string name="title_activity_user_facebook">UserFacebook</string>
+
+
+</resources>

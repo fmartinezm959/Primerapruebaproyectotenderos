@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088475110330",
+    "firebase_url": "https://primera-prueba-tenderos.firebaseio.com",
+    "project_id": "primera-prueba-tenderos",
+    "storage_bucket": "primera-prueba-tenderos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088475110330:android:ce47562a0e487468",
+        "android_client_info": {
+          "package_name": "proyecto.example.tiendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088475110330-908kis1qkc91t2u6q7rqb5ivp5bmi2vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proyecto.example.tiendas",
+            "certificate_hash": "b38a14afba2bfdefb13db3323e1d5d287e55faf1"
+          }
+        },
+        {
+          "client_id": "1088475110330-tdo1irpu6k8i7661vr6ghbdqnq32ggml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrg85y8MmFFYoYB8Ei7Ui590Pl_ZgPXvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088475110330-tdo1irpu6k8i7661vr6ghbdqnq32ggml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
